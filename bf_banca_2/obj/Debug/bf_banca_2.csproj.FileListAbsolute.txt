@@ -1,0 +1,7 @@
+C:\Users\fusco.22376\source\repos\bf_banca_2\bin\Debug\bf_banca_2.exe.config
+C:\Users\fusco.22376\source\repos\bf_banca_2\bin\Debug\bf_banca_2.exe
+C:\Users\fusco.22376\source\repos\bf_banca_2\bin\Debug\bf_banca_2.pdb
+C:\Users\fusco.22376\source\repos\bf_banca_2\obj\Debug\bf_banca_2.csproj.AssemblyReference.cache
+C:\Users\fusco.22376\source\repos\bf_banca_2\obj\Debug\bf_banca_2.csproj.CoreCompileInputs.cache
+C:\Users\fusco.22376\source\repos\bf_banca_2\obj\Debug\bf_banca_2.exe
+C:\Users\fusco.22376\source\repos\bf_banca_2\obj\Debug\bf_banca_2.pdb
